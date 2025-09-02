@@ -1,0 +1,32 @@
+## Interface: 50500
+## Version: 1.00
+## Author: Pirson
+
+## Title: |TInterface/Addons/ProspectHelper/img/logo_ph:16:16|t |cffd597ffProspect Helper|r
+
+## Notes: |cFF33CCFFAllows you to prospect ores semi-automatically with just one click.|r
+## Notes-esES: |cFF33CCFFProspecta menas de forma semi-automática con solo un clic.|r
+## Notes-esMX: |cFF33CCFFProspecta minerales de forma semi-automática con solo un clic.|r
+## Notes-deDE: |cFF33CCFFErmöglicht es dir, Erze semi-automatisch mit nur einem Klick zu prospektieren.|r
+## Notes-frFR: |cFF33CCFFPermet de prospecter les minerais de manière semi-automatique en un seul clic.|r
+## Notes-itIT: |cFF33CCFFConsente di prospezionare i minerali in modo semi-automatico con un solo clic.|r
+## Notes-koKR: |cFF33CCFF단 한 번의 클릭으로 광석을 반자동으로 감정할 수 있습니다.|r
+## Notes-ptBR: |cFF33CCFFPermite prospectar minérios de forma semi-automática com apenas um clique.|r
+## Notes-ptPT: |cFF33CCFFPermite prospectar minérios de forma semi-automática com apenas um clique.|r
+## Notes-ruRU: |cFF33CCFFПозволяет полуавтоматически просеивать руды всего одним кликом.|r
+## Notes-zhCN: |cFF33CCFF只需一次点击即可半自动勘探矿石。|r
+## Notes-zhTW: |cFF33CCFF只需一次點擊即可半自動勘探礦石。|r
+
+
+## SavedVariables: ProspectHelperDB
+
+
+## X-Curse-Project-ID: 1335779
+
+Libs/LibStub/LibStub.lua
+Libs/LibDataBroker-1.1/LibDataBroker-1.1.lua
+Libs/LibDBIcon-1.0/LibDBIcon-1.0.lua
+
+Locales.lua
+ProspectHelper.lua
+MinimapButton.lua
