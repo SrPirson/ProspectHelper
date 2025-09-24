@@ -1,5 +1,5 @@
-## Interface: 50500
-## Version: 1.00
+## Interface: 50501
+## Version: 1.01
 ## Author: Pirson
 
 ## Title: |TInterface/Addons/ProspectHelper/img/logo_ph:16:16|t |cffd597ffProspect Helper|r
